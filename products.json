@@ -1,0 +1,34 @@
+[
+    {
+        "id": "sneaker",
+        "name": "Everyday Sneaker",
+        "category": "Shoes",
+        "price": 59,
+        "image": "images/sneaker.jpg",
+        "desc": "Lightweight comfort with a minimalist profile."
+    },
+    {
+        "id": "headphones",
+        "name": "Wireless Headphones",
+        "category": "Electronics",
+        "price": 89,
+        "image": "images/headphones.jpg",
+        "desc": "Crisp sound and all-day battery life."
+    },
+    {
+        "id": "mug",
+        "name": "Ceramic Mug",
+        "category": "Home",
+        "price": 15,
+        "image": "images/mug.jpg",
+        "desc": "Keeps your coffee warm and your desk stylish."
+    },
+    {
+        "id": "tshirt",
+        "name": "Classic T-Shirt",
+        "category": "Clothing",
+        "price": 25,
+        "image": "images/tshirt.jpg",
+        "desc": "Soft cotton T-shirt, perfect for everyday wear."
+    }
+]
